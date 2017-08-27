@@ -1,0 +1,247 @@
+C:\Users\Mustafa\Desktop\Yüz Tarama\FaceRecProOV\bin\Debug\BuumYuzTarama.exe
+C:\Users\Mustafa\Desktop\Yüz Tarama\FaceRecProOV\bin\Debug\BuumYuzTarama.pdb
+C:\Users\Mustafa\Desktop\Yüz Tarama\FaceRecProOV\bin\Debug\Emgu.CV.xml
+C:\Users\Mustafa\Desktop\Yüz Tarama\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Mustafa\Desktop\Yüz Tarama\FaceRecProOV\bin\Debug\Emgu.Util.xml
+C:\Users\Mustafa\Desktop\Yüz Tarama\FaceRecProOV\obj\x86\Debug\BuumYuzTarama.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\Yüz Tarama\FaceRecProOV\obj\x86\Debug\BuumYuzTarama.csproj.GenerateResource.Cache
+C:\Users\Mustafa\Desktop\Yüz Tarama\FaceRecProOV\obj\x86\Debug\BuumYuzTarama.exe
+C:\Users\Mustafa\Desktop\Yüz Tarama\FaceRecProOV\obj\x86\Debug\BuumYuzTarama.pdb
+C:\Users\Mustafa\Desktop\Yüz Tarama\FaceRecProOV\obj\x86\Debug\BuumYuzTarama.AnaForm.resources
+C:\Users\Mustafa\Desktop\Yüz Tarama\FaceRecProOV\obj\x86\Debug\BuumYuzTarama.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.exe
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.pdb
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\BuumYuzTarama\bin\Debug\BuumYuzTarama.exe
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\BuumYuzTarama\bin\Debug\BuumYuzTarama.pdb
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\BuumYuzTarama\bin\Debug\Emgu.CV.xml
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\BuumYuzTarama\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\BuumYuzTarama\bin\Debug\Emgu.Util.xml
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.AnaForm.resources
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.Properties.Resources.resources
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.csproj.GenerateResource.Cache
+C:\Users\Mustafa\Desktop\Yedek\BuumYuzTarama\bin\Debug\BuumYuzTarama.exe
+C:\Users\Mustafa\Desktop\Yedek\BuumYuzTarama\bin\Debug\BuumYuzTarama.pdb
+C:\Users\Mustafa\Desktop\Yedek\BuumYuzTarama\bin\Debug\Emgu.CV.xml
+C:\Users\Mustafa\Desktop\Yedek\BuumYuzTarama\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Mustafa\Desktop\Yedek\BuumYuzTarama\bin\Debug\Emgu.Util.xml
+C:\Users\Mustafa\Desktop\Yedek\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\Yedek\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.AnaForm.resources
+C:\Users\Mustafa\Desktop\Yedek\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\Yedek\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.csproj.GenerateResource.Cache
+C:\Users\Mustafa\Desktop\Yedek\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.exe
+C:\Users\Mustafa\Desktop\Yedek\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.pdb
+C:\Users\Mustafa\Desktop\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.exe
+C:\Users\Mustafa\Desktop\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.pdb
+C:\Users\Mustafa\Desktop\BuumYuzTarama\bin\Debug\BuumYuzTarama.exe
+C:\Users\Mustafa\Desktop\BuumYuzTarama\bin\Debug\BuumYuzTarama.pdb
+C:\Users\Mustafa\Desktop\BuumYuzTarama\bin\Debug\Emgu.CV.xml
+C:\Users\Mustafa\Desktop\BuumYuzTarama\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Mustafa\Desktop\BuumYuzTarama\bin\Debug\Emgu.Util.xml
+C:\Users\Mustafa\Desktop\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.AnaForm.resources
+C:\Users\Mustafa\Desktop\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.csproj.GenerateResource.Cache
+C:\Users\byoffical\Desktop\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.exe
+C:\Users\byoffical\Desktop\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.pdb
+C:\Users\byoffical\Desktop\BuumYuzTarama\bin\Debug\BuumYuzTarama.exe
+C:\Users\byoffical\Desktop\BuumYuzTarama\bin\Debug\BuumYuzTarama.pdb
+C:\Users\byoffical\Desktop\BuumYuzTarama\bin\Debug\Emgu.CV.xml
+C:\Users\byoffical\Desktop\BuumYuzTarama\bin\Debug\Emgu.CV.UI.xml
+C:\Users\byoffical\Desktop\BuumYuzTarama\bin\Debug\Emgu.Util.xml
+C:\Users\byoffical\Desktop\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.csprojResolveAssemblyReference.cache
+C:\Users\byoffical\Desktop\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.AnaForm.resources
+C:\Users\byoffical\Desktop\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.Properties.Resources.resources
+C:\Users\byoffical\Desktop\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.csproj.GenerateResource.Cache
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.exe
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.pdb
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama\bin\Debug\BuumYuzTarama.exe
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama\bin\Debug\BuumYuzTarama.pdb
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama\bin\Debug\Emgu.CV.xml
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama\bin\Debug\Emgu.CV.UI.xml
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama\bin\Debug\Emgu.Util.xml
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.csprojResolveAssemblyReference.cache
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.AnaForm.resources
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.Properties.Resources.resources
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.csproj.GenerateResource.Cache
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama (5)\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.exe
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama (5)\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.pdb
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama (5)\BuumYuzTarama\bin\Debug\BuumYuzTarama.exe
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama (5)\BuumYuzTarama\bin\Debug\BuumYuzTarama.pdb
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama (5)\BuumYuzTarama\bin\Debug\tr-TR\BuumYuzTarama.resources.dll
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama (5)\BuumYuzTarama\bin\Debug\Emgu.CV.xml
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama (5)\BuumYuzTarama\bin\Debug\Emgu.CV.UI.xml
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama (5)\BuumYuzTarama\bin\Debug\Emgu.Util.xml
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama (5)\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.csprojResolveAssemblyReference.cache
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama (5)\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.AnaForm.resources
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama (5)\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.Properties.Resources.resources
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama (5)\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.AnaForm.tr-TR.resources
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama (5)\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.csproj.GenerateResource.Cache
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama (5)\BuumYuzTarama\obj\x86\Debug\tr-TR\BuumYuzTarama.resources.dll
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama (5)\BuumYuzTarama\bin\Debug\Mail.dll
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama (5)\BuumYuzTarama\bin\Debug\Mail.xml
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama (5)\BuumYuzTarama\bin\Debug\Interop.WMPLib.dll
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama (5)\BuumYuzTarama\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama (5)\BuumYuzTarama\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama (5)\BuumYuzTarama\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\byoffical\Desktop\görsel\BuumYuzTarama (5)\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.csproj.ResolveComReference.cache
+C:\Users\Mustafa\Desktop\BuumYuzTarama\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Mustafa\Desktop\BuumYuzTarama\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Mustafa\Desktop\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.csproj.ResolveComReference.cache
+C:\Users\Mustafa\Desktop\BuumYuzTarama\bin\Debug\tr-TR\BuumYuzTarama.resources.dll
+C:\Users\Mustafa\Desktop\BuumYuzTarama\bin\Debug\Mail.dll
+C:\Users\Mustafa\Desktop\BuumYuzTarama\bin\Debug\Mail.xml
+C:\Users\Mustafa\Desktop\BuumYuzTarama\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mustafa\Desktop\BuumYuzTarama\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mustafa\Desktop\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.AnaForm.tr-TR.resources
+C:\Users\Mustafa\Desktop\BuumYuzTarama\obj\x86\Debug\tr-TR\BuumYuzTarama.resources.dll
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama\bin\Debug\BuumYuzTarama.exe
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama\bin\Debug\BuumYuzTarama.pdb
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama\bin\Debug\tr-TR\BuumYuzTarama.resources.dll
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama\bin\Debug\Mail.dll
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama\bin\Debug\Mail.xml
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama\bin\Debug\Interop.WMPLib.dll
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.csproj.ResolveComReference.cache
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.AnaForm.resources
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.Properties.Resources.resources
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.AnaForm.tr-TR.resources
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.csproj.GenerateResource.Cache
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama\obj\x86\Debug\tr-TR\BuumYuzTarama.resources.dll
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.exe
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama\obj\x86\Debug\BuumYuzTarama.pdb
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama - Copy (2)\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama - Copy (2)\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.csproj.ResolveComReference.cache
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.exe
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.pdb
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama - Copy (2)\bin\Debug\BuumYuzTarama.exe
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama - Copy (2)\bin\Debug\BuumYuzTarama.pdb
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama - Copy (2)\bin\Debug\tr-TR\BuumYuzTarama.resources.dll
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama - Copy (2)\bin\Debug\Mail.dll
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama - Copy (2)\bin\Debug\Mail.xml
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama - Copy (2)\bin\Debug\Interop.WMPLib.dll
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama - Copy (2)\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.csprojResolveAssemblyReference.cache
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.AnaForm.resources
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.Properties.Resources.resources
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.AnaForm.tr-TR.resources
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.csproj.GenerateResource.Cache
+C:\Users\byoffical\Desktop\Proje Son\BuumYuzTarama - Copy (2)\obj\x86\Debug\tr-TR\BuumYuzTarama.resources.dll
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama\BuumYuzTarama - Copy (2)\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama\BuumYuzTarama - Copy (2)\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.csproj.ResolveComReference.cache
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.exe
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.pdb
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama\BuumYuzTarama - Copy (2)\bin\Debug\BuumYuzTarama.exe
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama\BuumYuzTarama - Copy (2)\bin\Debug\BuumYuzTarama.pdb
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama\BuumYuzTarama - Copy (2)\bin\Debug\tr-TR\BuumYuzTarama.resources.dll
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama\BuumYuzTarama - Copy (2)\bin\Debug\Mail.dll
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama\BuumYuzTarama - Copy (2)\bin\Debug\Mail.xml
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama\BuumYuzTarama - Copy (2)\bin\Debug\Interop.WMPLib.dll
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama\BuumYuzTarama - Copy (2)\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.csprojResolveAssemblyReference.cache
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.AnaForm.resources
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.Properties.Resources.resources
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.AnaForm.tr-TR.resources
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.csproj.GenerateResource.Cache
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama\BuumYuzTarama - Copy (2)\obj\x86\Debug\tr-TR\BuumYuzTarama.resources.dll
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama - Copy (2)\BuumYuzTarama - Copy (2)\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama - Copy (2)\BuumYuzTarama - Copy (2)\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama - Copy (2)\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.csproj.ResolveComReference.cache
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama - Copy (2)\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.exe
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama - Copy (2)\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.pdb
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama - Copy (2)\BuumYuzTarama - Copy (2)\bin\Debug\BuumYuzTarama.exe
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama - Copy (2)\BuumYuzTarama - Copy (2)\bin\Debug\BuumYuzTarama.pdb
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama - Copy (2)\BuumYuzTarama - Copy (2)\bin\Debug\tr-TR\BuumYuzTarama.resources.dll
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama - Copy (2)\BuumYuzTarama - Copy (2)\bin\Debug\Mail.dll
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama - Copy (2)\BuumYuzTarama - Copy (2)\bin\Debug\Mail.xml
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama - Copy (2)\BuumYuzTarama - Copy (2)\bin\Debug\Interop.WMPLib.dll
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama - Copy (2)\BuumYuzTarama - Copy (2)\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama - Copy (2)\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.csprojResolveAssemblyReference.cache
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama - Copy (2)\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.AnaForm.resources
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama - Copy (2)\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.Properties.Resources.resources
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama - Copy (2)\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.AnaForm.tr-TR.resources
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama - Copy (2)\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.csproj.GenerateResource.Cache
+C:\Users\byoffical\Desktop\sunum\BuumYuzTarama - Copy (2)\BuumYuzTarama - Copy (2)\obj\x86\Debug\tr-TR\BuumYuzTarama.resources.dll
+C:\Users\byoffical\Desktop\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\byoffical\Desktop\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\byoffical\Desktop\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.csproj.ResolveComReference.cache
+C:\Users\byoffical\Desktop\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.exe
+C:\Users\byoffical\Desktop\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.pdb
+C:\Users\byoffical\Desktop\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\BuumYuzTarama.exe
+C:\Users\byoffical\Desktop\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\BuumYuzTarama.pdb
+C:\Users\byoffical\Desktop\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\tr-TR\BuumYuzTarama.resources.dll
+C:\Users\byoffical\Desktop\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\Mail.dll
+C:\Users\byoffical\Desktop\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\Mail.xml
+C:\Users\byoffical\Desktop\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\Interop.WMPLib.dll
+C:\Users\byoffical\Desktop\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\byoffical\Desktop\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.csprojResolveAssemblyReference.cache
+C:\Users\byoffical\Desktop\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.AnaForm.resources
+C:\Users\byoffical\Desktop\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.Properties.Resources.resources
+C:\Users\byoffical\Desktop\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.AnaForm.tr-TR.resources
+C:\Users\byoffical\Desktop\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.csproj.GenerateResource.Cache
+C:\Users\byoffical\Desktop\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\tr-TR\BuumYuzTarama.resources.dll
+C:\Users\byoffical\Desktop\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\byoffical\Desktop\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\byoffical\Desktop\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.csproj.ResolveComReference.cache
+C:\Users\byoffical\Desktop\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.exe
+C:\Users\byoffical\Desktop\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.pdb
+C:\Users\byoffical\Desktop\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\BuumYuzTarama.exe
+C:\Users\byoffical\Desktop\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\BuumYuzTarama.pdb
+C:\Users\byoffical\Desktop\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\tr-TR\BuumYuzTarama.resources.dll
+C:\Users\byoffical\Desktop\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\Mail.dll
+C:\Users\byoffical\Desktop\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\Mail.xml
+C:\Users\byoffical\Desktop\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\Interop.WMPLib.dll
+C:\Users\byoffical\Desktop\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\byoffical\Desktop\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.csprojResolveAssemblyReference.cache
+C:\Users\byoffical\Desktop\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.AnaForm.resources
+C:\Users\byoffical\Desktop\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.Properties.Resources.resources
+C:\Users\byoffical\Desktop\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.AnaForm.tr-TR.resources
+C:\Users\byoffical\Desktop\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.csproj.GenerateResource.Cache
+C:\Users\byoffical\Desktop\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\tr-TR\BuumYuzTarama.resources.dll
+C:\Users\byoffical\Desktop\YEDEKLER\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\byoffical\Desktop\YEDEKLER\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\byoffical\Desktop\YEDEKLER\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.csproj.ResolveComReference.cache
+C:\Users\byoffical\Desktop\YEDEKLER\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.exe
+C:\Users\byoffical\Desktop\YEDEKLER\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.pdb
+C:\Users\byoffical\Desktop\YEDEKLER\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\BuumYuzTarama.exe
+C:\Users\byoffical\Desktop\YEDEKLER\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\BuumYuzTarama.pdb
+C:\Users\byoffical\Desktop\YEDEKLER\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\tr-TR\BuumYuzTarama.resources.dll
+C:\Users\byoffical\Desktop\YEDEKLER\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\Mail.dll
+C:\Users\byoffical\Desktop\YEDEKLER\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\Mail.xml
+C:\Users\byoffical\Desktop\YEDEKLER\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\Interop.WMPLib.dll
+C:\Users\byoffical\Desktop\YEDEKLER\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\byoffical\Desktop\YEDEKLER\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.csprojResolveAssemblyReference.cache
+C:\Users\byoffical\Desktop\YEDEKLER\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.AnaForm.resources
+C:\Users\byoffical\Desktop\YEDEKLER\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.Properties.Resources.resources
+C:\Users\byoffical\Desktop\YEDEKLER\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.AnaForm.tr-TR.resources
+C:\Users\byoffical\Desktop\YEDEKLER\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.csproj.GenerateResource.Cache
+C:\Users\byoffical\Desktop\YEDEKLER\Masaüstü4\sunum\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\tr-TR\BuumYuzTarama.resources.dll
+G:\yedekler\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\BuumYuzTarama.exe.config
+G:\yedekler\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\Interop.WMPLib.dll
+G:\yedekler\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\yedekler\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.csproj.ResolveComReference.cache
+G:\yedekler\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.exe
+G:\yedekler\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.pdb
+G:\yedekler\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\BuumYuzTarama.exe
+G:\yedekler\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\BuumYuzTarama.pdb
+G:\yedekler\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\tr-TR\BuumYuzTarama.resources.dll
+G:\yedekler\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\Mail.dll
+G:\yedekler\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\Mail.xml
+G:\yedekler\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\Interop.WMPLib.dll
+G:\yedekler\Ana Sunum\BuumYuzTarama - Copy (2)\bin\Debug\AxInterop.WMPLib.dll
+G:\yedekler\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.csprojResolveAssemblyReference.cache
+G:\yedekler\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.AnaForm.resources
+G:\yedekler\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.Properties.Resources.resources
+G:\yedekler\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.AnaForm.tr-TR.resources
+G:\yedekler\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\BuumYuzTarama.csproj.GenerateResource.Cache
+G:\yedekler\Ana Sunum\BuumYuzTarama - Copy (2)\obj\x86\Debug\tr-TR\BuumYuzTarama.resources.dll
+C:\Users\byoffical\Documents\GitHub\ArduinoAndCsharpFaceRecognition\yuztarama\yuztarama\bin\Debug\BuumYuzTarama.exe.config
+C:\Users\byoffical\Documents\GitHub\ArduinoAndCsharpFaceRecognition\yuztarama\yuztarama\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\byoffical\Documents\GitHub\ArduinoAndCsharpFaceRecognition\yuztarama\yuztarama\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\byoffical\Documents\GitHub\ArduinoAndCsharpFaceRecognition\yuztarama\yuztarama\obj\x86\Debug\BuumYuzTarama.csproj.ResolveComReference.cache
+C:\Users\byoffical\Documents\GitHub\ArduinoAndCsharpFaceRecognition\yuztarama\yuztarama\obj\x86\Debug\BuumYuzTarama.exe
+C:\Users\byoffical\Documents\GitHub\ArduinoAndCsharpFaceRecognition\yuztarama\yuztarama\obj\x86\Debug\BuumYuzTarama.pdb
